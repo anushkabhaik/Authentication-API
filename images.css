@@ -1,0 +1,30 @@
+.bg-container{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+.bulb-image{
+    width: 250px;
+}
+.cat-image{
+    width: 300px;
+}
+.btn-container{
+    width: 400px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.switch-text{
+    color: black;
+    font-family: roboto;
+    font-weight: 600;
+}
+.offbtn{
+    padding: 10px;
+}
+.onbtn{
+    padding: 10px;
+}

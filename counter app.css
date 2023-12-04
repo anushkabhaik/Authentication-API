@@ -1,0 +1,10 @@
+.bg-container{
+    height: 50vh;
+    width: 50vh;
+    background-color: pink;
+}
+.counter-heading{
+    font-size: 50px;
+    font-family: "Roboto";
+    font-weight: 800;
+}
